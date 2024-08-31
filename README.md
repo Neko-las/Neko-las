@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neko-las
-- 👀 I’m interested in: Programming Video Games / regular Software
+- 👀 I’m interested in: Programming Video Games 
 - 🌱 I’m currently learning: Game Engine Design
 - 💞️ I’m looking to collaborate on : Games
 - 📫 How to reach me : nicolas.t.ulrich@gmail.com
